@@ -1,3 +1,6 @@
+_This project has been created as part of the 42 curriculum by darmarti._
+
+
 # C++ Modules
 
 This repository contains the exercises of the C++ piscine / module series, organized by topic. Each folder focuses on a specific concept of modern C++ and is divided into sub-exercises (`ex00`, `ex01`, etc.).
@@ -158,6 +161,24 @@ make
 ```
 
 The exact binary name may vary by exercise, but the pattern is the same in each project directory.
+
+### Compile everything from the repository root
+
+You can compile all projects with a single command from the root folder:
+
+```bash
+make
+```
+
+This root `Makefile` automatically detects every folder named `cppmodules*` and delegates to each module's own `Makefile`.
+
+Useful shortcuts:
+
+```bash
+make clean
+make fclean
+make re
+```
 
 ---
 
