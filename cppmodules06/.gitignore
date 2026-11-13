@@ -1,0 +1,6 @@
+*.o
+*.a
+ex*
+!ex*/ 
+.vscode
+*_shrubbery

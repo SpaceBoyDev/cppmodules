@@ -1,0 +1,9 @@
+*.o
+*.a
+obj
+ex*
+!ex*/ 
+.vscode
+btc
+RPN
+PmergeMe
