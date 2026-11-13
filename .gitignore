@@ -1,0 +1,28 @@
+# Binaries / compiled objects
+*.o
+*.a
+obj
+
+# Exercise folders produced by the C++ modules
+ex*
+!ex*/
+
+# Editor settings
+.vscode
+
+# Module-specific generated binaries / artifacts
+*_shrubbery
+btc
+RPN
+PmergeMe
+
+megaphone
+phonebook
+tests
+braiiiiiiinnnzzzz
+more_braiiiiiiinnnzzzz
+hi_brain
+unnecesary_violence
+sed_is_for_losers
+harl
+harlFilter
